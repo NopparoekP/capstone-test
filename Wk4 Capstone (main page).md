@@ -39,5 +39,7 @@ The Venue information, a categorical feature is transformed to numerical feature
 The K-Mean unsupervised machine learning technique are selected to cluster similar neighborhoods, and Elbow method is applied to get the optimal number of cluster, and Folium is used to visualize those resulting clusters on the map.
 
 # Result;
-Please follow ; 
+Please follow the link below for information.
+https://github.com/NopparoekP/capstone-test/blob/main/battle%20of%20neighborhoods%20(Bangkok).ipynb
+
 
